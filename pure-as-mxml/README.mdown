@@ -1,0 +1,4 @@
+Pure AS in MXML (without flex)
+===============================
+
+Currently tested and working against Flex SDK 3.3.0 and 4.0.0 (using fx="http://ns.adobe.com/mxml/2009")

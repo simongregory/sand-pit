@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<App xmlns:fx="http://ns.adobe.com/mxml/2009"
+	 xmlns="*">
+	
+	<children>
+		
+		<Circ/>
+		
+		<Rect>
+			<children>
+				<Rect x="50" alpha=".5"/>
+				<Rect y="50" alpha=".2"/>
+			</children>
+		</Rect>
+		
+		<Circ/>
+		
+	</children>
+		
+</App> 
